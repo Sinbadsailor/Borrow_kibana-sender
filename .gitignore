@@ -1,0 +1,12 @@
+*.class
+*.log
+*.iml
+.DS_Store
+
+/.idea
+/.idea_modules
+/out
+/target
+/project/project
+/project/target
+/sbt
